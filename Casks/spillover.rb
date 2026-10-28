@@ -2,8 +2,8 @@
 # dist/release/spillover.rb; copy that file to Casks/spillover.rb in the tap repository
 # (github.com/Saad-ISAA/homebrew-spillover).
 cask "spillover" do
-  version "0.1.0"
-  sha256 "482478190deafbcbfef22ab7b5d8efada515770b5f481d56ce2a1f62011514fa"
+  version "0.1.1"
+  sha256 "d27646e4fd9eff87b58d6f59ec6acee8ba814381fee6f3d45864522becc4f85b"
 
   url "https://github.com/Saad-ISAA/spillover/releases/download/v#{version}/Spillover-#{version}.dmg"
   name "Spillover"
